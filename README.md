@@ -16,3 +16,7 @@ Step 6 Open Folder Bepnix in the game files
 Step 7 Paste the [Mod](https://github.com/GhostyGlue/Trees-Hate-You-Hax/releases/download/Hax/TreesHateYouHax.dll) DLL in the plugins folder
 
 Step 8 Launch the game and have Fun
+
+If you want to compile it you can
+Required dotnet 10 or above
+Run dotnet build to compile it

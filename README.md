@@ -20,3 +20,5 @@ Step 8 Launch the game and have Fun
 If you want to compile it you can
 Required dotnet 10 or above
 Run dotnet build to compile it
+
+I am working on a multiplayer lan mod
